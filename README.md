@@ -1,0 +1,2 @@
+# Listlist
+Listlist is a social media reviewing iOS app developed using Swift with CocoaPods and a Firebase database. It is designed to let users review topics such as music, movies or books and share / compare with their friends. It has support for creating and using accounts, adding friends, reviewing topics and much more. It was designed in Figma and created using Xcode 11 over the span of two months.  
